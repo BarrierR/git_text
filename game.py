@@ -2,6 +2,8 @@ import pygame
 import sys
 import random
 
+#这是修改的版本
+
 # 初始化 Pygame
 pygame.init()
 
